@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
-If you experience issues with imagerec functions, please replace the .pngs bundled with the loader with ones taken from your own system exactly the same name and areas as the origional bundled .pngs
+If you experience issues with imagerec functions, please replace the .pngs bundled with the loader with ones taken from your own system exactly the same name and areas as the original bundled .pngs
 ------------------------------------------------------------------------------
 Added AutoFeed - may be buggy, please test
 Added Owl & ini placeholders in GUI, will be worked on next
