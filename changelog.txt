@@ -2,7 +2,8 @@
 If you experience issues with imagerec functions, please replace the .pngs bundled with the loader with ones taken from your own system exactly the same name and areas as the original bundled .pngs
 ------------------------------------------------------------------------------
 Added AutoFeed - may be buggy, please test
-Added Owl & ini placeholders in GUI, will be worked on next
+Added ini placeholder in GUI, will be worked on next
 Added Crosshair, pls test
+Added AutoOwwl, pls test
 ------------------------------------------------------------------------------
 If you want to share this program message fish0n./1203664207623757844 on discord
