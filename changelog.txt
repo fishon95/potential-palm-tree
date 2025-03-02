@@ -10,5 +10,6 @@ Auto Claimer Added
 Removed overlays (not needed, waste of performance)
 Removed crosshair for now, will re implement ASAP
 pls DM me on discord if you want to use the Logbot, we will need to run thru some setup
+IF PROGRAM CRASHES AT LAUNCH DM FISHON FOR FONTS FILE 
 ------------------------------------------------------------------------------
 If you want to share this program message fish0n./1203664207623757844 on discord
