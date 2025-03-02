@@ -1,9 +1,14 @@
 ------------------------------------------------------------------------------
 If you experience issues with imagerec functions, please replace the .pngs bundled with the loader with ones taken from your own system exactly the same name and areas as the original bundled .pngs
 ------------------------------------------------------------------------------
-Added AutoFeed - may be buggy, please test
-Added ini placeholder in GUI, will be worked on next
-Added Crosshair, pls test
-Added AutoOwwl, pls test
+MASSIVE UPDATE; 
+Near complete GUI rework, some features still being done
+INI settings added
+Auto Loot Added
+Farming Helper Added
+Auto Claimer Added
+Removed overlays (not needed, waste of performance)
+Removed crosshair for now, will re implement ASAP
+pls DM me on discord if you want to use the Logbot, we will need to run thru some setup
 ------------------------------------------------------------------------------
 If you want to share this program message fish0n./1203664207623757844 on discord
